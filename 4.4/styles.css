@@ -1,0 +1,10 @@
+body {
+  font-family: Arial, sans-serif;
+  color: green;
+}
+
+a,
+button {
+  color: inherit;
+  font-family: inherit;
+}

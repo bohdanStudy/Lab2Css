@@ -1,0 +1,12 @@
+:root {
+  --main-color: #333;
+  --bg-color: #fff;
+}
+.card {
+  color: var(--main-color);
+  background-color: var(--bg-color);
+}
+.dark-card {
+  --main-color: #f0f0f0;
+  --bg-color: #1a1a1a;
+}
